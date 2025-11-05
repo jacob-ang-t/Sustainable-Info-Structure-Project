@@ -7,19 +7,18 @@ background-color:#c9b9b7
 h1 {
 font-family: Georgia;
 size: 4em;
-padding-bottom: 10px;
+padding-top: 10px;
 }
 
 h2 {
 font-family: Georgia;
 size: 3em;
-padding-bottom: 10px;
+padding-top: 20px;
 }
 
 h3 {
 font-family: Georgia;
 size: 2em;
-padding-bottom: 10px;
 }
 
 p {
